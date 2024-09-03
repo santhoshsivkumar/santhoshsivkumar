@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-sivkumar&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-sivkumar" /> </p>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://santhosh-sivkumar.netlify.app/](https://santhosh-sivkumar.netlify.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **santhosh.sivkumar@gmail.com**
 
